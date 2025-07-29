@@ -82,4 +82,4 @@ YashiOSはオープンソースプロジェクトであり、皆様からの貢�
 
 ## 連絡先
 
-ご質問やご提案がありましたら、お気軽に [GitHub Issues](https://github.com/あなたのユーザー名/YashiOS/issues) をご利用ください。
+ご質問やご提案がありましたら、お気軽に [GitHub Issues](https://github.com/blueberry082/YashiOS/issues) をご利用ください。
